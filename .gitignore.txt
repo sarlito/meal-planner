@@ -34,6 +34,7 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+
 # vercel
 .vercel
 
@@ -86,3 +87,6 @@ next-env.d.ts
 
 coverage/
 .vercel/
+node_modules
+.next
+.env
